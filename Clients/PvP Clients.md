@@ -10,3 +10,14 @@ Lunar Client is an amazing client, but it is a use-at-your-own-risk client, just
 Just like Lunar, Badlion is a free PvP client that is available for free at there website. This client used to be extremely popular before Lunar started to become the #1 Client, and is still the second best client after multiple years. There brand new GUI seems like it was a complete Lunar ripoff with a few additions. Ever since Lunar became mainstream, they client has been getting more popular for Skyblock, which is the most popular gamemode in Hypixel (As of March 7, 2023). Their privacy policy seems to state that they have rights to your information. If you have there AntiCheat installed, it runs 24/7 slowing your computer by a LOT. Like I said with Lunar, its just a Forge Modloader without access to adding your own mods.
 
 If your using Badlion, I recommend switching to a more safer option, or just completely uninstalling the AntiCheat.
+
+### 3. Feather Client
+Feather was created by the founders of PvPLounge, which was an alright client at the time. It wasn't a popular client at all, actually, it was a pretty dead client. They recently discontinued PvPLounge and created Feather Client. At its beginning it was $12.50 USD, which is already a red flag, like why do players have to pay for a Forge copy and paste. Wait wait wait, a Forge copy and paste? Yeah, it literally was, it was just Forge with downloaded mods. All the devs really did was code a GUI and a Launcher, thats literally it. The main reason people downloaded Feather was because of 2 features. One was being able to add your own mods. Two was voice chat, which is able to be recreated using Mumble Link.
+
+In conclusion, please don't use Feather Client, just download a different client. Its hype ended pretty much in a month after beta release ended. Just use Badlion/Lunar or just Forge
+
+### 4. Forge and Fabric
+Probably the best option, Forge with the right mods and fps boosting settings is a bit better then Lunar, which already says a lot. You can download mods from [Modrinth](https://modrinth.com) and [CurseForge](https://beta.curseforge.com/minecraft)
+
+To install Fabric (1.14+) watch: https://www.youtube.com/watch?v=pSL2HtfhhhE.
+To install Forge (Pretty much version, but for more later version, we recommend Fabric) watch: https://www.youtube.com/watch?v=pSL2HtfhhhE.
