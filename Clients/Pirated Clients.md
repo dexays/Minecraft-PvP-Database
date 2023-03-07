@@ -10,7 +10,7 @@ Second, find your .tlauncher folder, which is commonly stored in Appdata, which 
 Lastly, stay in %appdata% and find .minecraft, right click that and click delete. Finally, go to your recycle bin and empty it.
 
 # Well, how can I play Minecraft for free now?
-There is no real way of playing the full Minecraft for free that we know of, but here are some alternatives to Pirated Minecraft Launchers: https://classic.minecraft.net/ or https://www.minecraft.net/en-us/edition/pi
+There is no real way of playing the full Minecraft for free that we know of, but here are some alternatives to Pirated Minecraft Launchers: https://classic.minecraft.net/ or https://www.minecraft.net/en-us/edition/pi.
 
 # TLauncher is known malware, we recommend uninstalling it fully. For sources, look below:
 
