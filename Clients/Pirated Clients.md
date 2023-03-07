@@ -1,4 +1,4 @@
-# Cracked/Free Minecraft is not legal, and most likely steal your personal information!
+# Cracked/Free Minecraft is not legal, and most likely will steal your personal information!
 Most players play "free" Minecraft because of Minecraft's hefty price tag. And because of that, they are selling there data to 3rd party companies. A few examples are Salwyrr Client, TLauncher, and SKLauncher, please note there may be other clients, but these are the most popular. 
 
 It may be a great idea to uninstall "free" Minecraft launchers. We will guide you through how to uninstall these clients, mainly TLauncher. Other clients may be able to be uninstalled using the default Windows app uninstaller.
