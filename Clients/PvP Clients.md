@@ -21,4 +21,4 @@ Probably the best option, Forge with the right mods and fps boosting settings is
 
 To install Fabric (1.14+) watch: https://www.youtube.com/watch?v=pSL2HtfhhhE.
 
-To install Forge (Pretty much version, but for more later version, we recommend Fabric) watch: https://www.youtube.com/watch?v=pSL2HtfhhhE.
+To install Forge (Pretty much every version, but for more later version, we recommend Fabric) watch: https://www.youtube.com/watch?v=pSL2HtfhhhE.
