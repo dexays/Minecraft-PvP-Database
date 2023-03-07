@@ -19,6 +19,9 @@ In conclusion, please don't use Feather Client, just download a different client
 ### 4. Forge and Fabric
 Probably the best option, Forge with the right mods and fps boosting settings is a bit better then Lunar, which already says a lot. You can download mods from [Modrinth](https://modrinth.com) and [CurseForge](https://beta.curseforge.com/minecraft)
 
+### 5. MultiMC/Prism
+Not much to say, very good launchers, just Forge and Fabric built into a Launcher. Not much to say. Very recommended.
+
 To install Fabric (1.14+) watch: https://www.youtube.com/watch?v=pSL2HtfhhhE.
 
 To install Forge (Pretty much every version, but for more later version, we recommend Fabric) watch: https://www.youtube.com/watch?v=pSL2HtfhhhE.
